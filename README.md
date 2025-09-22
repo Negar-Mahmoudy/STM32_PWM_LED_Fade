@@ -1,4 +1,4 @@
-# STM32 PWM LED Fading Example
+# STM32 PWM LED Fading
 
 ## Description
 This project demonstrates how to gradually turn an LED on and off using **PWM (Pulse Width Modulation)** on an STM32 microcontroller. The LED brightness is smoothly increased and decreased by modifying the **Compare Register (CCR)** value in a timer interrupt callback.
